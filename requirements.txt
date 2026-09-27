@@ -1,0 +1,3 @@
+# Dependencies for make_week_notebook.py (requires Python 3.8+)
+# Install with: pip install -r requirements.txt
+reportlab>=4.0,<5
